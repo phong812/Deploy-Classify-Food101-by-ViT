@@ -1,7 +1,7 @@
 # Deploy-Classify-Food101-by-ViT
-<h1><center>Build VisionTransformer to classify 50% of Tiny Food101 </center> </h1>
+<h2><center>Build VisionTransformer to classify 50% of Tiny Food101 </center> </h2>
 <href> <center>https://arxiv.org/abs/2010.11929</center> </href> <br>
-<p1>Use: Pytorch, matplotlib, wandb, Flask ... </p1> <br>
+<p1>Framework & Tools: Pytorch, matplotlib, wandb, Flask, Gradio, ... </p1> <br>
 Download dataset <br>
 ```
 kaggle datasets download -d msarmi9/food101tiny 
