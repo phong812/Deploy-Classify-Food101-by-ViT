@@ -21,23 +21,31 @@ python main.py
 </div>
 
 
-
-<center>![image](https://github.com/user-attachments/assets/6ab1080d-25f9-4a00-81ce-46d47160671b)</center>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6ab1080d-25f9-4a00-81ce-46d47160671b" />
+</div>
 
 Use pretrained model <br>
 
-<center>![image](https://github.com/user-attachments/assets/44c8b1f3-f963-44e1-a02a-4638513e011f)</center>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/44c8b1f3-f963-44e1-a02a-4638513e011f" />
+</div>
 
 
-<center>![image](https://github.com/user-attachments/assets/5c410ff8-0aa5-4380-a372-1f4dad65ba58)</center>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5c410ff8-0aa5-4380-a372-1f4dad65ba58" />
+</div>
+
 
 Use Flask to deploy <br>
 
 ```
 python app.py
 ```
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f909b48-5753-45b9-8a5f-26047bd7c605" />
+</div>
 
-<center>![image](https://github.com/user-attachments/assets/0f909b48-5753-45b9-8a5f-26047bd7c605)</center>
 
 Use Gradio to deploy Local
 ```
@@ -45,7 +53,10 @@ cd demos/food101-tiny
 python app.py
 ```
 
-<center>![image](https://github.com/user-attachments/assets/008ddcaf-09a4-4f05-97b9-5ef0178a0578)</center>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/008ddcaf-09a4-4f05-97b9-5ef0178a0578" />
+</div>
+
 
 
 
