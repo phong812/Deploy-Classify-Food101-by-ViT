@@ -16,9 +16,9 @@ python main.py
 
 <br>
 
-<center>
+<div align="center">
   ![image](https://github.com/user-attachments/assets/7727df2f-97cb-48d6-8c88-0f23cace09db)
-</center>
+</div>
 
 
 
