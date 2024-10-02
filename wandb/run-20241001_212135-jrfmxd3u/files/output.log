@@ -1,0 +1,8 @@
+
+  0%|          | 0/2 [00:00<?, ?it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\Gia Phong\miniconda3\envs\myenv\lib\site-packages\torch\nn\functional.py:5560: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\cb\pytorch_1000000000000\work\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:555.)
+  attn_output = scaled_dot_product_attention(q, k, v, attn_mask, dropout_p, is_causal)
+Epoch: 1 | train_loss: 3.1086 | train_acc: 0.6962 | test_loss: 2.0211 | test_acc: 0.7266
+ 50%|█████     | 1/2 [01:11<01:11, 71.45s/it]
+
+100%|██████████| 2/2 [02:14<00:00, 67.38s/it]
